@@ -1,1 +1,4 @@
-# devops_journey_2022
+# Tech Understanding with opensource 
+
+<img src="linux1.png">
+
