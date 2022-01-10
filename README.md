@@ -46,3 +46,8 @@ root@775c96f06b2a:/# uname  -r
 
 ```
 
+### Windows vs Ubuntu 
+
+<img src="cmp.png">
+
+
