@@ -14,3 +14,29 @@
 
 <img src="cddemo.png">
 
+### cd demo 2
+
+<img src="cd2.png">
+
+### taking help in linux command line -- offline 
+
+<img src="off.png">
+
+### to create file in any OS 
+
+<img src="filec.png">
+
+## to create empty files in Linux 
+
+<img src="file1.png">
+
+### removing files 
+
+<img src="rm.png">
+
+### remove folder 
+
+<img src="rm1.png">
+
+
+
